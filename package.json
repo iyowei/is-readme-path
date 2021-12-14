@@ -1,0 +1,33 @@
+{
+  "name": "@iyowei/is-readme-path",
+  "version": "1.0.0",
+  "description": "异步获取指定 Git 项目远程仓库地址。",
+  "main": "isReadmePath.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyowei/is-readme-path.git"
+  },
+  "keywords": [
+    "iyowei"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iyowei/is-readme-path/issues"
+  },
+  "homepage": "https://github.com/iyowei/is-readme-path#readme",
+  "type": "module",
+  "exports": "./isReadmePath.js",
+  "files": [
+    "isReadmePath.js"
+  ],
+  "engines": {
+    "node": ">=12.20.0"
+  },
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}
