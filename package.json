@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "异步获取指定 Git 项目远程仓库地址。",
   "main": "isReadmePath.js",
-  "scripts": {
-    "preinstall": "npx only-allow pnpm"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iyowei/is-readme-path.git"
