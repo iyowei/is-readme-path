@@ -1,6 +1,6 @@
 {
   "name": "@iyowei/is-readme-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "异步获取指定 Git 项目远程仓库地址。",
   "main": "isReadmePath.js",
   "scripts": {},
